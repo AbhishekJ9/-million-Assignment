@@ -1,0 +1,6 @@
+                       Autoboxing
+
+  * It covnerts primitive data type into object. 
+  eg:
+      int a=6;
+     Integer=a;
